@@ -34,7 +34,7 @@ popolnenie.row('Пополнить счет')
 popolnenie.row('Отменить')
 
 oplata = telebot.types.ReplyKeyboardMarkup(True)
-oplata.row('QIWI', 'BTC')
+oplata.row('QIWI', 'Bitcoin')
 oplata.row('Банк.Картой')
 oplata.row('Отменить')
 
@@ -42,7 +42,7 @@ oplata.row('Отменить')
 #Админ меню
 admin = telebot.types.ReplyKeyboardMarkup(True)
 admin.row('Изменить Карту','Изменить Qiwi')
-admin.row('Изменить BTC')
+admin.row('Изменить Bitcoin')
 admin.row('Количество нариков')
 admin.row('Отменить')
 
