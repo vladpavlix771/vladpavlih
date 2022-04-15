@@ -4,7 +4,7 @@ bot_token = '5323110502:AAEfmpiyQwZknjHmFtyQQoKGdo7R7epfR8s'
 admin = 1370967532
 #Юзер саппорта
 support = '@blackToT_support'
-#Канал с отзывами
+#Канал с отзыв
 #feedback = 'https://t.me/Black_ToT_feedback'
 #Название магазина
 shop_name = 'BlackToT'
